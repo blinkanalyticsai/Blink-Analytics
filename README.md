@@ -63,3 +63,8 @@ enhances performance and growth.
 ---
 
 <h3 align="center">Blink Analytics – Turning Data into Decisions</h3>
+
+---
+<p align = 'center'>
+  Developed with ❤️ by [Blink Analytics](https://www.blinkanalytics.in)
+</p>
