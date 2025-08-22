@@ -35,8 +35,6 @@ enhances performance and growth.
 
 ## Technology Stack
 
-## Technology Stack
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" height="50" style="margin: 10px;"/>
